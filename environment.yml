@@ -1,0 +1,9 @@
+name: ecology-prac2
+channels:
+  r
+dependencies:
+  - r-essentials 
+  - python
+  - pip:
+    - jupyter
+    - jupyterthemes
